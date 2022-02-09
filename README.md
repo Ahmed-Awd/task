@@ -1,13 +1,14 @@
 ## Setup
 
-composer install
-copy .env.example to .env and change data
-php artisan key:generate
-php artisan optimize
-after creating database and link it throw env file
-php artisan migrate
-php artisan db:seed
-php artisan serve
+<P>composer install</P>
+<br>
+<p>copy .env.example to .env and change data</p><br>
+<p>php artisan key:generate</p><br>
+<p>php artisan optimize</p><br>
+<p>after creating database and link it throw env file</p><br>
+<p>php artisan migrate</p><br>
+<p>php artisan db:seed</p><br>
+<p>php artisan serve</p><br>
 
 ## Laravel Sponsors
 
